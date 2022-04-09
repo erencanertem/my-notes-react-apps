@@ -37,7 +37,8 @@ export default App;
 
 ```
 
-![Screenshot_24](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_24.png)
+![Screenshot_24](https://user-images.githubusercontent.com/66770659/162552433-81ab0fd1-c345-4a24-ade3-bacd70af3161.png)
+
 
 ---on above Feedback UI comes from Header Component, MyApp comes from App.JS
 
@@ -87,7 +88,8 @@ export default App;
 
 After that change, here it is! our new page.
 
-![Screenshot_7](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_7.png)
+
+![Screenshot_7](https://user-images.githubusercontent.com/66770659/162552438-63661a04-ec66-42ef-97d2-efe8aa928b6b.png)
 
 
 
@@ -138,4 +140,4 @@ export default App;
 
 ```
 
-![Screenshot_6](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_6.png)
+![Screenshot_6](https://user-images.githubusercontent.com/66770659/162552444-886ff32f-88c6-4847-9bcd-967f803ee40a.png)
