@@ -36,7 +36,7 @@ export default App;
 
 ```
 
-![conditionals](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\conditionals.png)
+![conditionals](https://user-images.githubusercontent.com/66770659/162552416-0bb2f2a0-298c-4638-954d-720d327015f2.png)
 
 ``` react
 
@@ -79,7 +79,8 @@ export default App;
 
 ```
 
-![conditionals-2](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\conditionals-2.png)
+
+![conditionals-2](https://user-images.githubusercontent.com/66770659/162552418-14b5add1-d57b-4dcb-91eb-ef08beb4c55d.png)
 
 
 
