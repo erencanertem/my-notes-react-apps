@@ -30,4 +30,4 @@ export default App;
 
 OUTPUT will be like below
 
-![Dynamic-value](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Dynamic-value.png)
+![Dynamic-value](https://user-images.githubusercontent.com/66770659/162552387-52a681a2-13b8-491d-a62c-237cb49ba78c.png)
