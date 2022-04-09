@@ -233,7 +233,8 @@ export default FeedbackStats;
 
 
 
-![Screenshot_22](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_22.png)
+![Screenshot_22](https://user-images.githubusercontent.com/66770659/162552562-aca41668-68c0-46d4-bf36-fec9b02efa9b.png)
+
 
 This 1 review comes from FeedbackContext.jsx. We'll change it later.
 
@@ -826,4 +827,5 @@ export default RatingSelect;
 
 We clicked edit button,text went to input area and rating selected like we selected before.
 
-![Screenshot_23](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_23.png)![Screenshot_23](C:\Users\erenc\Desktop\React Notlarım\Screenshot_23.png)
+![Screenshot_23](https://user-images.githubusercontent.com/66770659/162552572-26b3ee72-0c17-4f8b-ae6d-8a20d7df156e.png)
+
