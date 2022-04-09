@@ -120,9 +120,10 @@ export default UserItem;
 
 ````
 
+![Screenshot_1](https://user-images.githubusercontent.com/66770659/162552892-7277af06-f9fb-4ece-a429-b83da0d4dfaf.png)
 
 
-![Screenshot_1](C:\Users\erenc\Desktop\React Notlarım\GithubFinder App Notes\Screenshot_1.png)
+
 
 
 
