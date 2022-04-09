@@ -1,6 +1,7 @@
 
 
-![Screenshot_8](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_8.png)
+![Screenshot_8](https://user-images.githubusercontent.com/66770659/162552456-c1b68216-5e07-4173-a703-c8238da08b97.png)
+
 
 We add a css and our webpage like above.
 
@@ -29,7 +30,7 @@ export default Header;
 
 ```
 
-![Screenshot_9](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_9.png)
+![Screenshot_9](https://user-images.githubusercontent.com/66770659/162552461-3539bdbe-df50-4842-963e-3ce08a1dbb75.png)
 
 ```react
 import PropTypes from "prop-types";
@@ -148,5 +149,5 @@ export default Header;
 ```
 
 
+![Screenshot_10](https://user-images.githubusercontent.com/66770659/162552463-15b767b8-2fee-4ac1-bfd8-1f33544e0893.png)
 
-![Screenshot_10](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_10.png)
