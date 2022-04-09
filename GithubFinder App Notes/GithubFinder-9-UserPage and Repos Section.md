@@ -2,11 +2,13 @@
 
 This is Entry Page for our app.
 
-![Screenshot_3](C:\Users\erenc\Desktop\React Notlarım\GithubFinder App Notes\Screenshot_3.png)
+![Screenshot_3](https://user-images.githubusercontent.com/66770659/162552954-429be7d1-b2fd-49ed-847a-b399c2668889.png)
+
 
 When we pass an input an go this page will show up.
 
-![Screenshot_4](C:\Users\erenc\Desktop\React Notlarım\GithubFinder App Notes\Screenshot_4.png)
+![Screenshot_4](https://user-images.githubusercontent.com/66770659/162552959-8c2b5d89-0b0e-43e9-b03c-522b8701b5fb.png)
+
 
 
 
@@ -447,4 +449,4 @@ After changes, here is the our UI.
 
 
 
-![Screenshot_5](C:\Users\erenc\Desktop\React Notlarım\GithubFinder App Notes\Screenshot_5.png)
+![Screenshot_5](https://user-images.githubusercontent.com/66770659/162552973-cb1b6c4b-ca66-4eed-a494-932a69a6dea8.png)
