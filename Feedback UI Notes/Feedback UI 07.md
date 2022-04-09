@@ -1,4 +1,5 @@
-![Screenshot_13](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_13.png)
+
+![Screenshot_13](https://user-images.githubusercontent.com/66770659/162552510-bb7bb9f3-b4b5-44f6-9b3a-f35f594be06a.png)
 
 ```react
 
