@@ -20,9 +20,9 @@ export default FeedbackItem;
 
 ```
 
+![Screenshot_11](https://user-images.githubusercontent.com/66770659/162552491-5dba25ec-eb65-4dea-bb91-8549cabd5d4b.png)
 
 
-![Screenshot_11](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_11.png)
 
 ``` react
 
@@ -50,7 +50,8 @@ function FeedbackItem() {
 export default FeedbackItem;
 ```
 
-![Screenshot_12](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_12.png)
+![Screenshot_12](https://user-images.githubusercontent.com/66770659/162552494-88737cca-43c8-4110-8ade-ad12cdea3f08.png)
+
 
 ````react
 import { useState } from "react";
