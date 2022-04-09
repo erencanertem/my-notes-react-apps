@@ -113,7 +113,7 @@ export default App;
 
 ````
 
-![Screenshot_2](C:\Users\erenc\Desktop\React Notlarım\GithubFinder App Notes\Screenshot_2.png)
+![Screenshot_2](https://user-images.githubusercontent.com/66770659/162552908-c9e4ceae-3787-4ee6-a13a-0e8609034054.png)
 
 And finally we got our states(objects) at GithubProvider
 
