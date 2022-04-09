@@ -94,7 +94,8 @@ export default AboutIconLink;
 
 ````
 
-![Screenshot_18](C:\Users\erenc\Desktop\React Notlarım\Feedback UI Notes\Screenshot_18.png)
+![Screenshot_18](https://user-images.githubusercontent.com/66770659/162552551-cc6e40a6-0a62-4c68-9fbd-36c421fca01a.png)
+
 
 We can see our changes at search bar.
 
